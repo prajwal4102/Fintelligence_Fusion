@@ -44,7 +44,3 @@ Fintelligence Fusion is a stock analysis tool that utilizes candlestick patterns
 - `support.py`: Main script containing the code for data downloading, analysis, plotting, and backtesting.
 - `README.md`: This file.
 - `requirements.txt`: List of required Python packages.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
