@@ -37,7 +37,7 @@ Fintelligence Fusion is a stock analysis tool that utilizes candlestick patterns
 
 2. Open the Gradio interface in your browser.
 
-3. Enter the stock symbol you want to analyze in the provided input field and visualize the results.
+3. Enter the stock symbol(MSFT,BTC-USD etc...) you want to analyze in the provided input field and visualize the results.
 
 ## Files
 
